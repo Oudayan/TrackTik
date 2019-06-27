@@ -1,12 +1,12 @@
-# frontend-challenge
+# TrackTik Frontend Challenge
 
-> TrackTik Frontend Challenge by Oudayan Dutta
+## by Oudayan Dutta
 
->> The app is built with a mobile-first approach and is fully responsive. It uses Vue.js, Ionic, Cordova & Bootstrap.
+> The app is built with a mobile-first approach and is fully responsive. It uses Vue.js, Ionic, Cordova & Bootstrap.
 
-This app expects a json-server running the db.json file on http://localhost:3000/ (port 3000)
+> This app expects a json-server running the db.json file on http://localhost:3000/ (port 3000)
 
-Frontend is run on http://localhost:8080/ (port 8080)
+> Frontend is run on http://localhost:8080/ (port 8080)
 
 
 
